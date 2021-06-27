@@ -1,1 +1,5 @@
 # CS-370
+For this project, most of the code was given but I had to create the q training algorithm of the code. This algorithm was used to navigate the pirate through the maze to find the treasure. The agent would take numerous paths, and learned with each path, until it discovered the most optimal path. 
+Computer Scientists mostly define the problem that needs to be addressed and develops a path to the solution.
+There are different ways to approach a problem. Some might work the problem in its entirety while others might break the problem into several mini problems to e solved. Going through the computer Science degree I have found that breaking a problem into smaller steps might be the most beneficial. It reinforces my progress and motivates myself to continue to work on the problem. 
+I believe the biggest ethics concern in artificial intelligence is privacy and data protection. Since AI is based of a large amount of data this issue will not go away. However, it is the responsibility of Computer Sciences to use data the best way to ensure privacy and protection of a user’s data.
